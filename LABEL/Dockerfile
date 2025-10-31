@@ -1,3 +1,3 @@
 FROM almalinux:9
-LEBEL COURSE="Devops"\
+LABEL COURSE="Devops" \
       Duration="120hrs"
